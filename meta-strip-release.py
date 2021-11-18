@@ -5,7 +5,7 @@ import os
 from glob import glob
 
 '''
-Function pseudocode:
+Workflow:
 1. Read images from a directory
 2. Extract exif/metadata and write to a csv
 3. Save a copy of image without having the metadata associated to it
